@@ -1,4 +1,4 @@
-# NLP Emotion Detection Project
+# NLP Sentiment Analysis Project
 
 ## Project Overview
 
